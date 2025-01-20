@@ -10,7 +10,6 @@ pip install pandas numpy matplotlib seaborn requests
 
 -Project Overview
 Goal: Analyze quiz performance and provide actionable recommendations.
-
 Data: Uses current and historical quiz data from JSON APIs.
 Output: Insights, recommendations, and visualizations.
 
